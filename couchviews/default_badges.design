@@ -1,4 +1,4 @@
-[{
+{"docs":[{
    "_id": "badge/autor",
    "type": "badge",
    "name": "Wohltäter",
@@ -50,3 +50,4 @@
    "category": "set",
    "unit": "Bewertungen"
 }]
+}
